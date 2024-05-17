@@ -15,8 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![1](gambar.png)
-![2](gambar.png)
-![3](gambar.png)
-![4](gambar.png)
-![5](gambar.png)
+![Hasil Ketika di Run 1](assets/1.png)
+![Hasil Ketika di Run 2](assets/2.png)
+![Hasil Ketika di Run 3](assets/3.png)
+![Hasil Ketika di Run 4](assets/4.png)
+![Hasil Ketika di Run 5](assets/5.png)
